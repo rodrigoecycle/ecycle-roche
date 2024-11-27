@@ -1,0 +1,124 @@
+{
+    "places": [
+        {
+            "id": 34973,
+            "name": "Raia - Tatuapé",
+            "address": "Avenida Celso Garcia, 5100. Tatuapé, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 0.5877945188009042,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 3289-1233",
+            "website": "www.drogaraia.com.br",
+            "mail": "contato@drogaraia.com.br",
+            "items": ["Medicamentos", "Pilhas"]
+        },
+        {
+            "id": 34395,
+            "name": "Drogasil - Tatuapé",
+            "address": "Avenida Celso Garcia, 4076. Tatuapé, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 0.6620107518467312,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 99617-8461",
+            "website": "www.drogasil.com.br",
+            "mail": "contato@drogasil.com.br",
+            "items": ["Medicamentos", "Pilhas"]
+        },
+        {
+            "id": 28274,
+            "name": "Carrefour - Tatuapé",
+            "address": "Av. Salim Farah Maluf, 3.138 - Box 101. Tatuapé, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 1.428359231021449,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 3269-4816",
+            "website": "www.carrefour.com.br",
+            "mail": "contato@carrefour.com.br",
+            "items": ["Medicamentos"]
+        },
+        {
+            "id": 34339,
+            "name": "Drogasil - Vila Gomes Cardim",
+            "address": "Rua Serra De Bragança, 922. Vila Gomes Cardim, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 1.4647811388188996,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 3946-5634",
+            "website": "www.drogasil.com.br",
+            "mail": "contato@drogasil.com.br",
+            "items": ["Medicamentos", "Pilhas"]
+        },
+        {
+            "id": 36187,
+            "name": "Drogasil - Praça Novo Mundo",
+            "address": "Praça Novo Mundo, 177. São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 1.6322917301035218,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 2963-4778",
+            "website": "www.drogasil.com.br",
+            "mail": "contato@drogasil.com.br",
+            "items": ["Medicamentos", "Pilhas"]
+        },
+        {
+            "id": 29618,
+            "name": "Extrafarma - Vilão Carrão",
+            "address": "Rua Francisco Marengo, 699. Vila Carrã, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 1.6344075843820216,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 2963-4778",
+            "website": "www.extrafarma.com.br",
+            "mail": "contato@extrafarma.com.br",
+            "items": ["Medicamentos"]
+        },
+        {
+            "id": 41159,
+            "name": "Drogasil - Cidade Mãe do Céu",
+            "address": "Praça Sílvio Romero, 80. Cidade Mãe do Céu, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 1.701601268601628,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 2757-2516",
+            "website": "www.drogasil.com.br",
+            "mail": "contato@drogasil.com.br",
+            "items": ["Medicamentos", "Pilhas"]
+        },
+        {
+            "id": 34323,
+            "name": "Drogasil - Belenzinho",
+            "address": "Rua Júlio De Castilho, 936. Belenzinho, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 2.5930475529247743,
+            "openingHours": "De segunda a sexta-feira das 08h às 22h",
+            "phones": "(11) 3862-2857",
+            "website": "www.drogasil.com.br",
+            "mail": "contato@drogasil.com.br",
+            "items": ["Medicamentos", "Pilhas"]
+        },
+        {
+            "id": 14560,
+            "name": "AMA Agua Rasa",
+            "address": "R. Serra de Jaire, 1480 A. Quarta Parada, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 2.729141445594489,
+            "openingHours": "De segunda a sexta-feira das 08h às 18h",
+            "phones": "(11) 2181-3694",
+            "website": "sp156.prefeitura.sp.gov.br",
+            "mail": "156poa@portoalegre.rs.gov.br ",
+            "items": ["Medicamentos"]
+        },
+        {
+            "id": 14992,
+            "name": "UBS Belenzinho Marcus Wolosker",
+            "address": "Av. Celso Garcia, 1749. Belém, São Paulo - SP",
+            "type": "Posto de Entrega Voluntaria",
+            "distance": 2.8328701911654974,
+            "openingHours": "De segunda a sexta-feira das 08h às 18h",
+            "phones": "(11) 3207-5572",
+            "website": "sp156.prefeitura.sp.gov.br",
+            "mail": "156poa@portoalegre.rs.gov.br ",
+            "items": ["Medicamentos"]
+        }
+    ]
+}
