@@ -56,7 +56,7 @@ export function HeroImpact() {
   }, [bags])
 
   return (
-    <div className="flex bg-white overflow-hidden rounded-3xl rounded-tl-[110px] rounded-br-[110px] shadow-card">
+    <div className="flex bg-white overflow-hidden rounded-3xl rounded-tl-[110px] rounded-br-[110px] shadow-card duration-500 animate-in fade-in slide-in-from-top-8">
       <div className="overflow-hidden w-[584px] h-[400px]">
         <Image
           src="/comprimidos-rosa.jpg"

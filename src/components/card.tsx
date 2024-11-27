@@ -1,7 +1,6 @@
 import { ReactNode } from 'react'
-import { Heading } from './heading'
 import classNames from 'classnames'
-import { motion } from 'motion/react'
+import { Heading } from './heading'
 
 interface CardProps {
   heading: string
@@ -11,11 +10,10 @@ interface CardProps {
 
 export function Card({ children, heading, className }: CardProps) {
   return (
-    <motion.div
-      initial={{ opacity: 0, y: -50 }}
-      animate={{ opacity: 1, y: 0 }}
+    <div
       className={classNames(
         'flex flex-col gap-9 p-12 rounded-3xl bg-white shadow-card',
+        'duration-500 animate-in fade-in slide-in-from-top-8',
         className,
       )}
     >
@@ -23,6 +21,6 @@ export function Card({ children, heading, className }: CardProps) {
         {heading}
       </Heading>
       {children}
-    </motion.div>
+    </div>
   )
 }

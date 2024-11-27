@@ -12,10 +12,10 @@ export default function Postos() {
         <HeroImpact />
       </PollutionProvider>
 
-      <Separator className="mt-16" />
+      <Separator className="mt-16 duration-500 animate-in fade-in slide-in-from-top-8" />
 
       <div id="locais" className="flex flex-col gap-9 pt-16">
-        <div className="mx-10 flex flex-col gap-5">
+        <div className="mx-10 flex flex-col gap-5 duration-500 animate-in fade-in slide-in-from-top-8">
           <h3 className="text-5xl font-bold text-dark-900">
             48 locais de descarte de medicamentos
           </h3>
